@@ -30,59 +30,58 @@ Email: 15324062683@163.com
 
 ---
 
-<details>
-  
+
 ## 🛠  Research Skills
 
 ### 1. Academic Reading & Writing
-- Literature review and academic writing skills  
-- IELTS Overall Band Score: 6.0  
+<p>- Literature review and academic writing skills</p>  
+<p>- IELTS Overall Band Score: 6.0  </p>
 
 ### 2. Scientific Visualization & Research Design
-- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  
-- Experience in designing academic figures and research diagrams  
+<p>- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  </p>
+<p>- Experience in designing academic figures and research diagrams  </p>
 
-Contributed to figure design for:
-Qi H, Ou S S, Jia Y H, et al. *A Cross-Temporal Framework for Driving Behavior Impact on Electric Vehicle Battery Health*. Communications in Transportation Research, 2026.  
-(Impact Factor: 14.5, SSCI & SCIE indexed; selected for the China Excellent Science and Technology Journals Action Plan)
+<p>Contributed to figure design for:</p>
+<p>Qi H, Ou S S, Jia Y H, et al. *A Cross-Temporal Framework for Driving Behavior Impact on Electric Vehicle Battery Health*. Communications in Transportation Research, 2026.  </p>
+<p>(Impact Factor: 14.5, SSCI & SCIE indexed; selected for the China Excellent Science and Technology Journals Action Plan)</p>
 
 ### 3. Programming & Technical Skills
-- Python  
-- PyCharm  
-- PyTorch  
+<p>- Python  </p>
+<p>- PyCharm  </p>
+<p>- PyTorch  </p>
 
-Reproduced an open-source PyTorch image classification project:  
-https://github.com/fendouai/PyTorchDocs
-</details>
+<p>Reproduced an open-source PyTorch image classification project:  
+https://github.com/fendouai/PyTorchDocs</p>
+
 
 ### 📐 Academic Outreach & Communication
-- Video production for research group promotion  
-- Management and content creation for the research group’s public media account
+<p>- Video production for research group promotion  </p>
+<p>- Management and content creation for the research group’s public media account</p>
 
 ### 🤖 Honors & Certifications
-2022 年 9 月，获第十四届全国大学生广告艺术大赛（大广赛）国赛二等奖，11 月人民大会堂领奖
- 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛一等奖
- 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛二等奖
- 2021 年 6 月，获第十二届蓝桥杯全国高校视觉艺术设计赛国赛三等奖
- 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛优秀奖
- 2022 年 6 月，获第十四届全国大学生广告艺术大赛（大广赛）省赛二等奖
- 2021 年 6 月，获未来设计师 NCDA 全国高校艺术设计大赛省级三等奖
- 2022 年 2 月，获江苏省盐城市“遇见最美盐城”创青春设计大赛动画类二等奖
- 2021 年 6 月，获全国大学生广告艺术大赛（大广赛）校级二等奖
- 2021 年 6 月，获未来设计师 NCDA 全国高校艺术设计大赛校级三等奖
- 2020 年 12 月，获中国大学生广告艺术节学院奖（学院奖）校级三等奖
- 2020 年 11 月，获校文学院专业技能创意视频大赛一等奖
- 2020 年 12 月，获全国大学生广告艺术大赛（大广赛）校选赛获优秀工作者证书
- 2021 年 4 月，获全国大学生环境保护知识竞赛优秀奖
+<p>2022 年 9 月，获第十四届全国大学生广告艺术大赛（大广赛）国赛二等奖，11 月人民大会堂领奖</p>
+<p> 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛一等奖</p>
+<p> 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛二等奖</p>
+<p> 2021 年 6 月，获第十二届蓝桥杯全国高校视觉艺术设计赛国赛三等奖</p>
+<p> 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛优秀奖</p>
+<p> 2022 年 6 月，获第十四届全国大学生广告艺术大赛（大广赛）省赛二等奖</p>
+<p> 2021 年 6 月，获未来设计师 NCDA 全国高校艺术设计大赛省级三等奖</p>
+<p> 2022 年 2 月，获江苏省盐城市“遇见最美盐城”创青春设计大赛动画类二等奖</p>
+<p> 2021 年 6 月，获全国大学生广告艺术大赛（大广赛）校级二等奖</p>
+<p> 2021 年 6 月，获未来设计师 NCDA 全国高校艺术设计大赛校级三等奖</p>
+<p> 2020 年 12 月，获中国大学生广告艺术节学院奖（学院奖）校级三等奖</p>
+<p> 2020 年 11 月，获校文学院专业技能创意视频大赛一等奖</p>
+<p> 2020 年 12 月，获全国大学生广告艺术大赛（大广赛）校选赛获优秀工作者证书</p>
+<p> 2021 年 4 月，获全国大学生环境保护知识竞赛优秀奖</p>
 
 ### 💻 Work Experience
- 2024 年 08 月-2025 年 03 月 广州新航道-雅思助教
- 2023 年 07 月-2024 年 03 月 北京久医文化传媒-短视频运营
- 2022 年 08 月-2022 年 11 月 北京阿里影业-MCN 事业部-策划实习生
- 2020 年 06 月-2020 年 09 月 成都朴新教育-金牌教师助教
+<p> 2024 年 08 月-2025 年 03 月 广州新航道-雅思助教</p>
+<p> 2023 年 07 月-2024 年 03 月 北京久医文化传媒-短视频运营</p>
+<p> 2022 年 08 月-2022 年 11 月 北京阿里影业-MCN 事业部-策划实习生</p>
+<p> 2020 年 06 月-2020 年 09 月 成都朴新教育-金牌教师助教</p>
 
 ### 🧠  Academic Engagement
-- Actively participated in academic seminars and scholarly activities
+<p>- Actively participated in academic seminars and scholarly activities</p>
 
 ---
 
