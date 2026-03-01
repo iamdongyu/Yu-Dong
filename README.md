@@ -132,24 +132,24 @@ Contribution: Responsible for scientific visualization and academic figure desig
 <tr>
 
 <td align="center" width="25%">
-<a href="IFACO1.jpg" target="_blank">
-<img src="IFACO1.jpg" width="100%">
+<a href="IFAC01.jpg" target="_blank">
+<img src="IFAC01.jpg" width="100%">
 </a>
 <br>
 <sub>大连·IFAC会议</sub>
 </td>
 
 <td align="center" width="25%">
-<a href="MUSTO1.png" target="_blank">
-<img src="MUSTO1.png" width="100%">
+<a href="MUST01.png" target="_blank">
+<img src="MUST01.png" width="100%">
 </a>
 <br>
 <sub>澳门·会议</sub>
 </td>
 
 <td align="center" width="25%">
-<a href="MUSTO2.png" target="_blank">
-<img src="MUSTO2.png" width="100%">
+<a href="MUST02.png" target="_blank">
+<img src="MUST02.png" width="100%">
 </a>
 <br>
 <sub>澳门·会议</sub>
