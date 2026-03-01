@@ -2,7 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Dong+Yu;Cognitive+Neuroscience+Explorer;Psychological+Counseling+Enthusiast)](https://git.io/typing-svg)
 
-  <a href="https://your-website-link.com">
+  <a href="https://iamdongyu.github.io/">
     <img src="https://img.shields.io/badge/My Homepage-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
