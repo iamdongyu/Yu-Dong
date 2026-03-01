@@ -78,7 +78,7 @@ https://github.com/fendouai/PyTorchDocs
 
 ---
 
-### 📐 Academic Outreach & Communication
+### 🎯 Academic Outreach & Communication
 
 - Video production for research group promotion  
 - Management and content creation for the research group’s public media account  
@@ -103,18 +103,46 @@ https://github.com/fendouai/PyTorchDocs
 
 ---
 
-### 🤖 Honors & Certifications
+### 🏆 Honors & Certifications
 
-- 2022 – National Second Prize, National College Advertising Art Competition  
-- 2022 – National First Prize, Lanqiao Cup Visual Design Competition  
-- 2021–2022 – Multiple National & Provincial Design Competition Awards  
-- IELTS 6.0  
-- Mandarin Proficiency Certificate  
-- Teacher Qualification Certificate  
+<details>
+<summary><b>Full Awards List</b></summary>
+
+<br>
+
+- September 2022 – National Second Prize, 14th National College Advertising Art Competition (Award Ceremony at the Great Hall of the People, Beijing)
+
+- June 2022 – National First Prize, 13th Lanqiao Cup National Visual Design Competition
+
+- June 2022 – National Second Prize, 13th Lanqiao Cup National Visual Design Competition
+
+- June 2021 – National Third Prize, 12th Lanqiao Cup National Visual Design Competition
+
+- June 2022 – National Excellence Award, 13th Lanqiao Cup National Visual Design Competition
+
+- June 2022 – Provincial Second Prize, 14th National College Advertising Art Competition
+
+- June 2021 – Provincial Third Prize, NCDA Future Designer National Art & Design Competition
+
+- February 2022 – Second Prize (Animation Category), “Encounter the Most Beautiful Yancheng” Youth Creative Design Competition, Jiangsu Province
+
+- June 2021 – University-Level Second Prize, National College Advertising Art Competition
+
+- June 2021 – University-Level Third Prize, NCDA Future Designer National Art & Design Competition
+
+- December 2020 – University-Level Third Prize, China College Advertising Art Festival Academy Award
+
+- November 2020 – First Prize, Creative Video Skills Competition, School of Literature
+
+- December 2020 – Outstanding Contributor Certificate, National College Advertising Art Competition Selection Round
+
+- April 2021 – Excellence Award, National College Environmental Protection Knowledge Competition
+
+</details>
 
 ---
 
-### 💼 Work Experience
+### 📌 Work Experience
 
 - 08/2024 – 03/2025 | IELTS Teaching Assistant, Guangzhou Xinhangdao  
 - 07/2023 – 03/2024 | Short Video Operations, Beijing Jiuyi Media  
@@ -123,7 +151,7 @@ https://github.com/fendouai/PyTorchDocs
 
 ---
 
-### 🧠 Academic Engagement
+### ⭐ Academic Engagement
 
 - Actively participated in academic seminars and scholarly activities  
 
