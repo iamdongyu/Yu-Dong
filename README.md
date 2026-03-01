@@ -35,14 +35,17 @@
 ### 🧠 Research Skills 
 
   ### 1. Academic Reading & Writing
-  <p>- Literature review and academic writing skills</p>  
-  <p>- IELTS Overall Band Score: 6.0  </p>
+ <p>- Literature review and academic writing skills</p>  
+ <p>- IELTS Overall Band Score: 6.0  </p>
+  <details>
+  <summary>📜 View Score Report</summary>
 
-<p align="center">
-  <a href="IELTS250510.jpg" target="_blank">
-    <img src="IELTS250510.jpg" width="50%">
-  </a>
-</p>
+  <br>
+  <p align="center">
+    <img src="IELTS250510.jpg" width="60%">
+  </p>
+
+  </details>
 
   ### 2. Scientific Visualization & Research Design
   <p>- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  </p>
