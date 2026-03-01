@@ -86,8 +86,8 @@ Contribution: Responsible for scientific visualization and academic figure desig
 <tr>
 <td width="50%" align="center">
 
-<a href="drivingbehavior01.png" target="_blank">
-  <img src="drivingbehavior01.png" width="90%">
+<a href="CICTP-Gp.png" target="_blank">
+  <img src="CICTP-Gp.png" width="90%">
 </a>
 
 </td>
@@ -101,8 +101,9 @@ Contribution: Responsible for scientific visualization and academic figure desig
 </td>
 </tr>
 </table>
+
 ### 🤖 Honors & Certifications
-<p>2022 年 9 月，获第十四届全国大学生广告艺术大赛（大广赛）国赛二等奖，11 月人民大会堂领奖</p>
+<p> 2022 年 9 月，获第十四届全国大学生广告艺术大赛（大广赛）国赛二等奖，11 月人民大会堂领奖</p>
 <p> 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛一等奖</p>
 <p> 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛二等奖</p>
 <p> 2021 年 6 月，获第十二届蓝桥杯全国高校视觉艺术设计赛国赛三等奖</p>
@@ -125,7 +126,45 @@ Contribution: Responsible for scientific visualization and academic figure desig
 
 ### 🧠  Academic Engagement
 <p>- Actively participated in academic seminars and scholarly activities</p>
+<br>
 
+<table>
+<tr>
+
+<td align="center" width="25%">
+<a href="IFACO1.jpg" target="_blank">
+<img src="IFACO1.jpg" width="100%">
+</a>
+<br>
+<sub>大连·IFAC会议</sub>
+</td>
+
+<td align="center" width="25%">
+<a href="MUSTO1.png" target="_blank">
+<img src="MUSTO1.png" width="100%">
+</a>
+<br>
+<sub>澳门·会议</sub>
+</td>
+
+<td align="center" width="25%">
+<a href="MUSTO2.png" target="_blank">
+<img src="MUSTO2.png" width="100%">
+</a>
+<br>
+<sub>澳门·会议</sub>
+</td>
+
+<td align="center" width="25%">
+<a href="IFAC02.jpg" target="_blank">
+<img src="IFAC02.jpg" width="100%">
+</a>
+<br>
+<sub>广州白云·会议</sub>
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📸 Featured Projects
