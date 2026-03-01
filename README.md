@@ -12,18 +12,18 @@
 
 ### 🚀 About Me
 
-Hi, I'm Yu Dong，I received my Bachelor's degree from Yancheng Teachers University in Jiangsu Province, majoring in Broadcasting and Television Studies. My cumulative GPA is 3.47 out of 4.0. 
-I am interested in cognitive neuroscience technologies and clinical counseling. My goal is to pursue a Ph.D. or become a professional psychological counselor.
-Email: 15324062683@163.com
+<p>Hi, I'm Yu Dong，I received my Bachelor's degree from Yancheng Teachers University in Jiangsu Province, majoring in Broadcasting and Television Studies. My cumulative GPA is 3.47 out of 4.0. </p>
+<p>I am interested in cognitive neuroscience technologies and clinical counseling. My goal is to pursue a Ph.D. or become a professional psychological counselor.</p>
+<p>Email: 15324062683@163.com</p>
 
 <details>
   <summary><b>中文版个人简介 (Click to expand)</b></summary>
   <p>你好！我是 <b>董宇</b>，本科就读于江苏省盐城师范学院，专业为广播电视学，GPA：3.47/4。</p>
-  <p>感兴趣研究方向L认知神经技术与临床咨询感兴趣。意向：读博深造或者心理咨询师。</p>
+  <p>感兴趣研究方向：认知神经技术与临床咨询感兴趣。 意向：读博深造或者心理咨询师。</p>
   <p>已取得：雅思6.0（口语、写作均6.0）、具有普通话证书、教师资格证。</p>
   <p>邮箱：15324062683@163.com</p>
   
-<i style="color: #007acc; display: inline;">Always open to collaborations on open-source robotics projects or in-depth technical discussions!</i>
+<i style="color: #007acc; display: inline;"></i>
 
 </details>
 
