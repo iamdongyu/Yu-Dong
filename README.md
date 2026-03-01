@@ -133,7 +133,6 @@ Contribution: Responsible for scientific visualization and academic figure desig
 
 <td align="center" width="25%">
 <a href="IFAC01.jpg" target="_blank">
-<img src="IFAC01.jpg" width="100%"> 
 <img src="IFAC01.jpg" height="150">
 </a>
 <br>
@@ -150,7 +149,6 @@ Contribution: Responsible for scientific visualization and academic figure desig
 
 <td align="center" width="25%">
 <a href="MUST02.jpg" target="_blank">
-<img src="MUST02.jpg" width="100%">
 <img src="MUST02.jpg" height="150">
 </a>
 <br>
@@ -159,7 +157,6 @@ Contribution: Responsible for scientific visualization and academic figure desig
 
 <td align="center" width="25%">
 <a href="IFAC02.jpg" target="_blank">
-<img src="IFAC02.jpg" width="100%">
 <img src="IFAC02.jpg" height="150">
 </a>
 <br>
