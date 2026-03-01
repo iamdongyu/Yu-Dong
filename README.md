@@ -38,24 +38,11 @@
   <p>- Literature review and academic writing skills</p>  
   <p>- IELTS Overall Band Score: 6.0  </p>
 
-<table>
-<tr>
-<td width="30%">
-
-<a href="images/paper1.png">
-  <img src="images/paper1.png" width="100%">
-</a>
-
-</td>
-<td width="70%">
-
-<strong>Paper Title</strong><br>
-Authors<br>
-Conference / Journal<br>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="IELTS250510.jpg" target="_blank">
+    <img src="IELTS250510.jpg" width="50%">
+  </a>
+</p>
 
   ### 2. Scientific Visualization & Research Design
   <p>- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  </p>
