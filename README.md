@@ -10,39 +10,41 @@
 
 </div>
 
-### About Me
+## About Me
 
-<p>Hi, I'm Yu Dong，I received my Bachelor's degree from Yancheng Teachers University in Jiangsu Province, majoring in Broadcasting and Television Studies. My cumulative GPA is 3.47 out of 4.0. </p>
-<p>I am interested in cognitive neuroscience technologies and clinical counseling. My goal is to pursue a Ph.D. or become a professional psychological counselor.</p>
+Hi, I'm **Yu Dong**.  
+I received my Bachelor's degree from Yancheng Teachers University (Jiangsu, China), majoring in Broadcasting and Television Studies (GPA: 3.47/4.0).
+
+My academic interests focus on **cognitive neuroscience technologies** and **clinical counseling**.  
+I aspire to pursue doctoral studies or become a professional psychological counselor.
 
 <details>
-  <summary><b>中文版个人简介 (Click to expand)</b></summary>
-  <p>你好！我是 <b>董宇</b>，本科就读于江苏省盐城师范学院，专业为广播电视学，GPA：3.47/4。</p>
-  <p>感兴趣研究方向：认知神经技术与临床咨询感兴趣。 意向：读博深造或者心理咨询师。</p>
-  <p>已取得：雅思6.0（口语、写作均6.0）、具有普通话证书、教师资格证。</p>
-  
-<i style="color: #007acc; display: inline;"></i>
+<summary><b>中文版个人简介 (Click to expand)</b></summary>
+
+你好！我是 **董宇**，本科就读于江苏省盐城师范学院，专业为广播电视学，GPA：3.47/4。  
+研究兴趣：认知神经技术与临床咨询。  
+发展方向：读博深造或成为心理咨询师。  
+已取得：雅思 6.0（口语、写作均 6.0）、普通话证书、教师资格证。
 
 </details>
 
-
 ---
 
+## Key Experiences
 
-##  Key Experiences
+### 🧠 Research Skills
 
+#### 1. Academic Reading & Writing
+- Literature review and academic writing  
+- IELTS Overall Band Score: 6.0  
 
-### 🧠 Research Skills 
+#### 2. Scientific Visualization & Research Design
+- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  
+- Experience in designing academic figures and research diagrams  
 
-  ### 1. Academic Reading & Writing
- <p>- Literature review and academic writing skills</p>  
- <p>- IELTS Overall Band Score: 6.0  </p>
+**Representative Publication Contribution:**
 
-  ### 2. Scientific Visualization & Research Design
-  <p>- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  </p>
-  <p>- Experience in designing academic figures and research diagrams  </p>
-    <p> Contributed to figure design for:</p>
-    <table>
+<table>
 <tr>
 <td width="35%" valign="top">
 
@@ -60,72 +62,71 @@ Impact Factor: 14.5<br>
 SSCI & SCIE indexed<br>
 Selected for the China Excellent Science and Technology Journals Action Plan<br><br>
 
-Contribution: Responsible for scientific visualization and academic figure design.
+Contribution: Scientific visualization and academic figure design.
 
 </td>
 </tr>
 </table>
 
+#### 3. Programming & Technical Skills
+- Python  
+- PyCharm  
+- PyTorch  
 
+Reproduced an open-source PyTorch image classification project:  
+https://github.com/fendouai/PyTorchDocs
 
-  <p>Qi H, Ou S S, Jia Y H, et al. *A Cross-Temporal Framework for Driving Behavior Impact on Electric Vehicle Battery Health*. Communications in Transportation Research, 2026. (Impact Factor: 14.5, SSCI & SCIE indexed; selected for the China Excellent Science and Technology Journals Action Plan)</p>
-
-  ### 3. Programming & Technical Skills
-  <p>- Python  </p>
-  <p>- PyCharm  </p>
-  <p>- PyTorch  </p>
-
-  <p>Reproduced an open-source PyTorch image classification project:  https://github.com/fendouai/PyTorchDocs</p>
+---
 
 ### 📐 Academic Outreach & Communication
-<p>- Video production for research group promotion  </p>
-<p>- Management and content creation for the research group’s public media account</p>
+
+- Video production for research group promotion  
+- Management and content creation for the research group’s public media account  
+
 <br>
 
 <table>
 <tr>
 <td width="50%" align="center">
-
 <a href="CICTP-Gp.png" target="_blank">
-  <img src="CICTP-Gp.png" width="90%">
+<img src="CICTP-Gp.png" width="90%">
 </a>
-
 </td>
 
 <td width="50%" align="center">
-
 <a href="drivingbehavior02.png" target="_blank">
-  <img src="drivingbehavior02.png" width="90%">
+<img src="drivingbehavior02.png" width="90%">
 </a>
-
 </td>
 </tr>
 </table>
 
+---
+
 ### 🤖 Honors & Certifications
-<p> 2022 年 9 月，获第十四届全国大学生广告艺术大赛（大广赛）国赛二等奖，11 月人民大会堂领奖</p>
-<p> 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛一等奖</p>
-<p> 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛二等奖</p>
-<p> 2021 年 6 月，获第十二届蓝桥杯全国高校视觉艺术设计赛国赛三等奖</p>
-<p> 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛优秀奖</p>
-<p> 2022 年 6 月，获第十四届全国大学生广告艺术大赛（大广赛）省赛二等奖</p>
-<p> 2021 年 6 月，获未来设计师 NCDA 全国高校艺术设计大赛省级三等奖</p>
-<p> 2022 年 2 月，获江苏省盐城市“遇见最美盐城”创青春设计大赛动画类二等奖</p>
-<p> 2021 年 6 月，获全国大学生广告艺术大赛（大广赛）校级二等奖</p>
-<p> 2021 年 6 月，获未来设计师 NCDA 全国高校艺术设计大赛校级三等奖</p>
-<p> 2020 年 12 月，获中国大学生广告艺术节学院奖（学院奖）校级三等奖</p>
-<p> 2020 年 11 月，获校文学院专业技能创意视频大赛一等奖</p>
-<p> 2020 年 12 月，获全国大学生广告艺术大赛（大广赛）校选赛获优秀工作者证书</p>
-<p> 2021 年 4 月，获全国大学生环境保护知识竞赛优秀奖</p>
 
-### 💻 Work Experience
-<p> 2024 年 08 月-2025 年 03 月 广州新航道-雅思助教</p>
-<p> 2023 年 07 月-2024 年 03 月 北京久医文化传媒-短视频运营</p>
-<p> 2022 年 08 月-2022 年 11 月 北京阿里影业-MCN 事业部-策划实习生</p>
-<p> 2020 年 06 月-2020 年 09 月 成都朴新教育-金牌教师助教</p>
+- 2022 – National Second Prize, National College Advertising Art Competition  
+- 2022 – National First Prize, Lanqiao Cup Visual Design Competition  
+- 2021–2022 – Multiple National & Provincial Design Competition Awards  
+- IELTS 6.0  
+- Mandarin Proficiency Certificate  
+- Teacher Qualification Certificate  
 
-### 🧠  Academic Engagement
-<p>- Actively participated in academic seminars and scholarly activities</p>
+---
+
+### 💼 Work Experience
+
+- 08/2024 – 03/2025 | IELTS Teaching Assistant, Guangzhou Xinhangdao  
+- 07/2023 – 03/2024 | Short Video Operations, Beijing Jiuyi Media  
+- 08/2022 – 11/2022 | Planning Intern, Alibaba Pictures (MCN Division)  
+- 06/2020 – 09/2020 | Teaching Assistant, Chengdu Puxin Education  
+
+---
+
+### 🧠 Academic Engagement
+
+- Actively participated in academic seminars and scholarly activities  
+
 <br>
 
 <table>
@@ -136,36 +137,35 @@ Contribution: Responsible for scientific visualization and academic figure desig
 <img src="IFAC01.jpg" height="170">
 </a>
 <br>
-<sub>大连·IFAC会议</sub>
+<sub>Dalian · IFAC</sub>
 </td>
 
 <td align="center" width="25%">
 <a href="MUST01.png" target="_blank">
-<img src="MUST01.png" height="180">
+<img src="MUST01.png" height="170">
 </a>
 <br>
-<sub>澳门·会议</sub>
+<sub>Macau · Conference</sub>
 </td>
 
 <td align="center" width="25%">
 <a href="MUST02.jpg" target="_blank">
-<img src="MUST02.jpg" height="150">
+<img src="MUST02.jpg" height="170">
 </a>
 <br>
-<sub>澳门·会议</sub>
+<sub>Macau · Meeting</sub>
 </td>
 
 <td align="center" width="25%">
 <a href="IFAC02.jpg" target="_blank">
-<img src="IFAC02.jpg" height="150">
+<img src="IFAC02.jpg" height="170">
 </a>
 <br>
-<sub>广州白云·会议</sub>
+<sub>Guangzhou · Forum</sub>
 </td>
 
 </tr>
 </table>
----
 
 ## 📸 Featured Projects
 > Check out my [GitHub Repositories](https://github.com/lain-ego0?tab=repositories) for full source code and detailed documentation.
