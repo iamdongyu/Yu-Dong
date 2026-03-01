@@ -26,8 +26,9 @@ Email: 15324062683@163.com
 <i style="color: #007acc; display: inline;">Always open to collaborations on open-source robotics projects or in-depth technical discussions!</i>
 
 ---
-
-## 🛠  Research Skills
+<details>
+  
+## <summary>🛠  Research Skills</summary>
 
 ### 1. Academic Reading & Writing
 - Literature review and academic writing skills  
@@ -48,6 +49,7 @@ Qi H, Ou S S, Jia Y H, et al. *A Cross-Temporal Framework for Driving Behavior I
 
 Reproduced an open-source PyTorch image classification project:  
 https://github.com/fendouai/PyTorchDocs
+</details>
 
 ### 📐 Academic Outreach & Communication
 - Video production for research group promotion  
