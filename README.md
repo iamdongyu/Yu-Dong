@@ -31,8 +31,8 @@
 
 ## 🚀  Key Experiences
 
-<details>
-  <summary><strong> 🧠 Research Skills </strong></summary>
+
+### 🧠 Research Skills 
 
   ### 1. Academic Reading & Writing
   <p>- Literature review and academic writing skills</p>  
@@ -52,8 +52,6 @@
   <p>- PyTorch  </p>
 
   <p>Reproduced an open-source PyTorch image classification project:  https://github.com/fendouai/PyTorchDocs</p>
-
-</details>
 
 ### 📐 Academic Outreach & Communication
 <p>- Video production for research group promotion  </p>
