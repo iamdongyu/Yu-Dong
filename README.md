@@ -89,13 +89,13 @@ https://github.com/fendouai/PyTorchDocs
 <tr>
 <td width="50%" align="center">
 <a href="CICTP-Gp.png" target="_blank">
-<img src="CICTP-Gp.png" width="90%">
+<img src="CICTP-Gp.png" width="65%">
 </a>
 </td>
 
 <td width="50%" align="center">
 <a href="drivingbehavior02.png" target="_blank">
-<img src="drivingbehavior02.png" width="90%">
+<img src="drivingbehavior02.png" width="65%">
 </a>
 </td>
 </tr>
@@ -109,6 +109,8 @@ https://github.com/fendouai/PyTorchDocs
 <summary><b>Full Awards List</b></summary>
 
 <br>
+
+<small>
 
 - September 2022 – National Second Prize, 14th National College Advertising Art Competition (Award Ceremony at the Great Hall of the People, Beijing)
 
@@ -137,6 +139,8 @@ https://github.com/fendouai/PyTorchDocs
 - December 2020 – Outstanding Contributor Certificate, National College Advertising Art Competition Selection Round
 
 - April 2021 – Excellence Award, National College Environmental Protection Knowledge Competition
+
+</small>
 
 </details>
 
