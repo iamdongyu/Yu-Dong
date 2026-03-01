@@ -1,8 +1,8 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lain-Ego;Robotics+Full-stack+Developer;Motion+Control+%7C+RL)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yu-Dong;Cognitive Neuroscience+Full-stack+ Explorer;Psychology Counseling Enthusiast+%7C+RL)](https://git.io/typing-svg)
 
-  <a href="https://Yu-Dong.github.io/">
+  <a href="https://iamdongyu.github.io/">
     <img src="https://img.shields.io/badge/My Homepages-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
   </a>
   <a href="http://robocon.org.cn/">
@@ -21,7 +21,7 @@ I aspire to pursue doctoral studies or become a professional psychological couns
 <details>
 <summary><b>中文版个人简介 (Click to expand)</b></summary>
 
-你好！我是 **董宇**，本科就读于江苏省盐城师范学院，专业为广播电视学，GPA：3.47/4。  
+你好！我是 **董宇**，本科就读于江苏省盐城师范学院，专业为m广播电视学，GPA：3.47/4。  
 研究兴趣：认知神经技术与临床咨询。  
 发展方向：读博深造或成为心理咨询师。  
 已取得：雅思 6.0（口语、写作均 6.0）、普通话证书、教师资格证。
