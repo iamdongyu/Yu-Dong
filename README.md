@@ -142,7 +142,6 @@ Contribution: Responsible for scientific visualization and academic figure desig
 
 <td align="center" width="25%">
 <a href="MUST01.png" target="_blank">
-<img src="MUST01.png" width="100%">
 <img src="MUST01.png" height="150">
 </a>
 <br>
