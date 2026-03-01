@@ -41,8 +41,33 @@
   ### 2. Scientific Visualization & Research Design
   <p>- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  </p>
   <p>- Experience in designing academic figures and research diagrams  </p>
+    <p> Contributed to figure design for:</p>
+    <table>
+<tr>
+<td width="35%" valign="top">
 
-  <p>Contributed to figure design for:</p>
+<img src="drivingbehavioro1.png" width="100%">
+
+</td>
+
+<td width="65%" valign="top">
+
+<strong>Qi H, Ou S S, Jia Y H, et al.</strong><br>
+<em>A Cross-Temporal Framework for Driving Behavior Impact on Electric Vehicle Battery Health</em><br>
+Communications in Transportation Research, 2026.<br><br>
+
+Impact Factor: 14.5<br>
+SSCI & SCIE indexed<br>
+Selected for the China Excellent Science and Technology Journals Action Plan<br><br>
+
+Contribution: Responsible for scientific visualization and academic figure design.
+
+</td>
+</tr>
+</table>
+
+
+
   <p>Qi H, Ou S S, Jia Y H, et al. *A Cross-Temporal Framework for Driving Behavior Impact on Electric Vehicle Battery Health*. Communications in Transportation Research, 2026. (Impact Factor: 14.5, SSCI & SCIE indexed; selected for the China Excellent Science and Technology Journals Action Plan)</p>
 
   ### 3. Programming & Technical Skills
