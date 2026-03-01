@@ -2,7 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Lain-Ego;Robotics+Full-stack+Developer;Motion+Control+%7C+RL)](https://git.io/typing-svg)
 
-  <a href="https://lain-ego0.github.io/">
+  <a href="https://Yu-Dong.github.io/">
     <img src="https://img.shields.io/badge/My Homepages-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
   </a>
   <a href="http://robocon.org.cn/">
@@ -12,62 +12,71 @@
 
 ### 🚀 About Me
 
-Hi, I'm Yu Dong.
-
-I received my Bachelor's degree from Yancheng Teachers University in Jiangsu Province, majoring in Broadcasting and Television Studies. 
-My cumulative GPA is 3.47 out of 4.0.
-
-I am interested in cognitive neuroscience technologies and clinical counseling. 
-My goal is to pursue a Ph.D. or become a professional psychological counselor.
-
-I'm Yu-Dong, a junior undergraduate, robotics full-stack developer & open-source contributor. Robotics Engineering Intern at High Torque Robotics, leading R&D for legged robot Mini Qi. Core focus: RL-based legged locomotion, embedded optimization, and end-to-end robotics full-stack development. Multi-time ROBOCON national award winner, creator of open-source quadruped robot full-stack solutions.
+Hi, I'm Yu Dong，I received my Bachelor's degree from Yancheng Teachers University in Jiangsu Province, majoring in Broadcasting and Television Studies. My cumulative GPA is 3.47 out of 4.0. 
+I am interested in cognitive neuroscience technologies and clinical counseling. My goal is to pursue a Ph.D. or become a professional psychological counselor.
+Email: 15324062683@163.com
 
 <details>
   <summary><b>中文版个人简介 (Click to expand)</b></summary>
-  <p>你好！我是 <b>Lain-Ego</b>，本科大三在读，机器人开发爱好者、开源社区贡献者。目前于高擎机电实习，负责足式机器人Mini Qi研发。</p>
-  <p>我的研发方向聚焦于足式机器人的强化学习 locomotion，熟悉嵌入式系统优化，旨在让机器人实现更自然、稳定、智能的交互与运动。</p>
-  <p>我具有机器人本体机械、硬件、控制、感知全栈开发经验。我坚信，机器人的未来，在于可靠的机械结构、高效的电子系统与前沿AI算法的深度融合。</p>
-  <p>曾带队参与多届ROBOCON全国大学生机器人大赛，斩获多项国家级奖项；主导多个机器人开源项目，涵盖四足机器人机械设计、控制算法、仿真训练环境等全栈方案，持续为开源社区输出内容。</p>
-</details>
-
+  <p>你好！我是 <b>董宇</b>，本科就读于江苏省盐城师范学院，专业为广播电视学，GPA：3.47/4。</p>
+  <p>感兴趣研究方向L认知神经技术与临床咨询感兴趣。意向：读博深造或者心理咨询师。</p>
+  <p>已取得：雅思6.0（口语、写作均6.0）、具有普通话证书、教师资格证。</p>
+  <p>邮箱：15324062683@163.com</p>
+  
 <i style="color: #007acc; display: inline;">Always open to collaborations on open-source robotics projects or in-depth technical discussions!</i>
 
 ---
 
-## 🛠 Technical Stack
+## 🛠  Research Skills
 
-### 📐 Modeling & CAD
-[![SolidWorks](https://img.shields.io/badge/SolidWorks-005386?style=flat-square&logo=dassaultsystemes&logoColor=white)](https://www.solidworks.com/)
-[![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square&logo=altiumdesigner&logoColor=white)](https://www.altium.com/altium-designer?srsltid=AfmBOook6fIkaguJdZspqAcIt6qL0xQVwT--_uMIXeI6Mh5a6klJZU-f)
-[![LCEDA](https://img.shields.io/badge/LCEDA-1890FF?style=flat-square&logo=easyeda&logoColor=white)](https://lceda.cn/)
+### 1. Academic Reading & Writing
+- Literature review and academic writing skills  
+- IELTS Overall Band Score: 6.0  
 
-### 🤖 Simulation & Robotics
-[![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)](https://wiki.ros.org/)
-[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/)
-[![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=flat-square&logo=gazebo&logoColor=white)](https://gazebosim.org/)
-[![Isaac Gym](https://img.shields.io/badge/Isaac_Gym-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/isaac-gym)
-[![MuJoCo](https://img.shields.io/badge/MuJoCo-0094FF?style=flat-square&logo=deepmind&logoColor=white)](https://mujoco.org/)
-[![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![MoveIt](https://img.shields.io/badge/MoveIt-4285F4?style=flat-square&logo=ros&logoColor=white)](https://moveit.ros.org/)
+### 2. Scientific Visualization & Research Design
+- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  
+- Experience in designing academic figures and research diagrams  
 
-### 💻 Programming & Software
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.cppreference.com/w/c)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00A4E4?style=flat-square&logo=freertos&logoColor=white)](https://www.freertos.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)](https://cmake.org/)
+Contributed to figure design for:
+Qi H, Ou S S, Jia Y H, et al. *A Cross-Temporal Framework for Driving Behavior Impact on Electric Vehicle Battery Health*. Communications in Transportation Research, 2026.  
+(Impact Factor: 14.5, SSCI & SCIE indexed; selected for the China Excellent Science and Technology Journals Action Plan)
 
-### 🧠 ML & Motion Control
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
+### 3. Programming & Technical Skills
+- Python  
+- PyCharm  
+- PyTorch  
 
-### 🎛 Embedded Hardware
-[![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
-[![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
-[![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/)
+Reproduced an open-source PyTorch image classification project:  
+https://github.com/fendouai/PyTorchDocs
+
+### 📐 Academic Outreach & Communication
+- Video production for research group promotion  
+- Management and content creation for the research group’s public media account
+
+### 🤖 Honors & Certifications
+2022 年 9 月，获第十四届全国大学生广告艺术大赛（大广赛）国赛二等奖，11 月人民大会堂领奖
+ 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛一等奖
+ 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛二等奖
+ 2021 年 6 月，获第十二届蓝桥杯全国高校视觉艺术设计赛国赛三等奖
+ 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛优秀奖
+ 2022 年 6 月，获第十四届全国大学生广告艺术大赛（大广赛）省赛二等奖
+ 2021 年 6 月，获未来设计师 NCDA 全国高校艺术设计大赛省级三等奖
+ 2022 年 2 月，获江苏省盐城市“遇见最美盐城”创青春设计大赛动画类二等奖
+ 2021 年 6 月，获全国大学生广告艺术大赛（大广赛）校级二等奖
+ 2021 年 6 月，获未来设计师 NCDA 全国高校艺术设计大赛校级三等奖
+ 2020 年 12 月，获中国大学生广告艺术节学院奖（学院奖）校级三等奖
+ 2020 年 11 月，获校文学院专业技能创意视频大赛一等奖
+ 2020 年 12 月，获全国大学生广告艺术大赛（大广赛）校选赛获优秀工作者证书
+ 2021 年 4 月，获全国大学生环境保护知识竞赛优秀奖
+
+### 💻 Work Experience
+ 2024 年 08 月-2025 年 03 月 广州新航道-雅思助教
+ 2023 年 07 月-2024 年 03 月 北京久医文化传媒-短视频运营
+ 2022 年 08 月-2022 年 11 月 北京阿里影业-MCN 事业部-策划实习生
+ 2020 年 06 月-2020 年 09 月 成都朴新教育-金牌教师助教
+
+### 🧠  Academic Engagement
+- Actively participated in academic seminars and scholarly activities
 
 ---
 
