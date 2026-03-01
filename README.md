@@ -83,8 +83,6 @@ https://github.com/fendouai/PyTorchDocs
 - Video production for research group promotion  
 - Management and content creation for the research group’s public media account  
 
-<br>
-
 <table>
 <tr>
 <td width="50%" align="center">
