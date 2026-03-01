@@ -10,7 +10,7 @@
 
 </div>
 
-### ⭐ About Me
+### About Me
 
 <p>Hi, I'm Yu Dong，I received my Bachelor's degree from Yancheng Teachers University in Jiangsu Province, majoring in Broadcasting and Television Studies. My cumulative GPA is 3.47 out of 4.0. </p>
 <p>I am interested in cognitive neuroscience technologies and clinical counseling. My goal is to pursue a Ph.D. or become a professional psychological counselor.</p>
@@ -29,7 +29,7 @@
 ---
 
 
-## 🚀  Key Experiences
+##  Key Experiences
 
 
 ### 🧠 Research Skills 
@@ -37,6 +37,25 @@
   ### 1. Academic Reading & Writing
   <p>- Literature review and academic writing skills</p>  
   <p>- IELTS Overall Band Score: 6.0  </p>
+
+<table>
+<tr>
+<td width="30%">
+
+<a href="images/paper1.png">
+  <img src="images/paper1.png" width="100%">
+</a>
+
+</td>
+<td width="70%">
+
+<strong>Paper Title</strong><br>
+Authors<br>
+Conference / Journal<br>
+
+</td>
+</tr>
+</table>
 
   ### 2. Scientific Visualization & Research Design
   <p>- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  </p>
