@@ -25,10 +25,14 @@ Email: 15324062683@163.com
   
 <i style="color: #007acc; display: inline;">Always open to collaborations on open-source robotics projects or in-depth technical discussions!</i>
 
+</details>
+
+
 ---
+
 <details>
   
-## <summary>🛠  Research Skills</summary>
+## 🛠  Research Skills
 
 ### 1. Academic Reading & Writing
 - Literature review and academic writing skills  
