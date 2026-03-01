@@ -32,26 +32,26 @@
 ## 🚀  Key Experiences
 
 <details>
-<summary><strong> ### 🧠 Research Skills </strong></summary>
+  <summary><strong> ### ▶ Research Skills </strong></summary>
 
-### 1. Academic Reading & Writing
-<p>- Literature review and academic writing skills</p>  
-<p>- IELTS Overall Band Score: 6.0  </p>
+  ### 1. Academic Reading & Writing
+  <p>- Literature review and academic writing skills</p>  
+  <p>- IELTS Overall Band Score: 6.0  </p>
 
-### 2. Scientific Visualization & Research Design
-<p>- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  </p>
-<p>- Experience in designing academic figures and research diagrams  </p>
+  ### 2. Scientific Visualization & Research Design
+  <p>- Proficient in Adobe Illustrator, Photoshop, PowerPoint, and Visio  </p>
+  <p>- Experience in designing academic figures and research diagrams  </p>
 
-<p>Contributed to figure design for:</p>
-<p>Qi H, Ou S S, Jia Y H, et al. *A Cross-Temporal Framework for Driving Behavior Impact on Electric Vehicle Battery Health*. Communications in Transportation Research, 2026.  </p>
-<p>(Impact Factor: 14.5, SSCI & SCIE indexed; selected for the China Excellent Science and Technology Journals Action Plan)</p>
+  <p>Contributed to figure design for:</p>
+  <p>Qi H, Ou S S, Jia Y H, et al. *A Cross-Temporal Framework for Driving Behavior Impact on Electric Vehicle Battery Health*. Communications in Transportation Research, 2026.  </p>
+  <p>(Impact Factor: 14.5, SSCI & SCIE indexed; selected for the China Excellent Science and Technology Journals Action Plan)</p>
 
-### 3. Programming & Technical Skills
-<p>- Python  </p>
-<p>- PyCharm  </p>
-<p>- PyTorch  </p>
+  ### 3. Programming & Technical Skills
+  <p>- Python  </p>
+  <p>- PyCharm  </p>
+  <p>- PyTorch  </p>
 
-<p>Reproduced an open-source PyTorch image classification project:  https://github.com/fendouai/PyTorchDocs</p>
+  <p>Reproduced an open-source PyTorch image classification project:  https://github.com/fendouai/PyTorchDocs</p>
 
 </details>
 
