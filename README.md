@@ -31,7 +31,9 @@
 ---
 
 
-## 🛠  Research Skills
+## 🛠  Key Experiences
+
+### Research Skills
 
 ### 1. Academic Reading & Writing
 <p>- Literature review and academic writing skills</p>  
