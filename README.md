@@ -32,7 +32,7 @@
 ## 🚀  Key Experiences
 
 <details>
-  <summary><strong> ### ▶ Research Skills </strong></summary>
+  <summary><strong> 🧠 Research Skills </strong></summary>
 
   ### 1. Academic Reading & Writing
   <p>- Literature review and academic writing skills</p>  
