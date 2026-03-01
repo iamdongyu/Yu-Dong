@@ -133,7 +133,8 @@ Contribution: Responsible for scientific visualization and academic figure desig
 
 <td align="center" width="25%">
 <a href="IFAC01.jpg" target="_blank">
-<img src="IFAC01.jpg" width="100%">
+<img src="IFAC01.jpg" width="100%"> 
+<img src="IFAC01.jpg" height="150">
 </a>
 <br>
 <sub>大连·IFAC会议</sub>
@@ -142,14 +143,16 @@ Contribution: Responsible for scientific visualization and academic figure desig
 <td align="center" width="25%">
 <a href="MUST01.png" target="_blank">
 <img src="MUST01.png" width="100%">
+<img src="MUST01.png" height="150">
 </a>
 <br>
 <sub>澳门·会议</sub>
 </td>
 
 <td align="center" width="25%">
-<a href="MUST02.png" target="_blank">
-<img src="MUST02.png" width="100%">
+<a href="MUST02.jpg" target="_blank">
+<img src="MUST02.jpg" width="100%">
+<img src="MUST02.jpg" height="150">
 </a>
 <br>
 <sub>澳门·会议</sub>
@@ -158,6 +161,7 @@ Contribution: Responsible for scientific visualization and academic figure desig
 <td align="center" width="25%">
 <a href="IFAC02.jpg" target="_blank">
 <img src="IFAC02.jpg" width="100%">
+<img src="IFAC02.jpg" height="150">
 </a>
 <br>
 <sub>广州白云·会议</sub>
