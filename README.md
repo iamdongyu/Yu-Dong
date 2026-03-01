@@ -80,7 +80,27 @@ Contribution: Responsible for scientific visualization and academic figure desig
 ### 📐 Academic Outreach & Communication
 <p>- Video production for research group promotion  </p>
 <p>- Management and content creation for the research group’s public media account</p>
+<br>
 
+<table>
+<tr>
+<td width="50%" align="center">
+
+<a href="drivingbehavior01.png" target="_blank">
+  <img src="drivingbehavior01.png" width="90%">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="drivingbehavior02.png" target="_blank">
+  <img src="drivingbehavior02.png" width="90%">
+</a>
+
+</td>
+</tr>
+</table>
 ### 🤖 Honors & Certifications
 <p>2022 年 9 月，获第十四届全国大学生广告艺术大赛（大广赛）国赛二等奖，11 月人民大会堂领奖</p>
 <p> 2022 年 6 月，获第十三届蓝桥杯全国高校视觉艺术设计赛国赛一等奖</p>
