@@ -1,12 +1,10 @@
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yu-Dong;Cognitive Neuroscience+Full-stack+ Explorer;Psychology Counseling Enthusiast+%7C+RL)](https://git.io/typing-svg)
 
-  <a href="https://iamdongyu.github.io/">
-    <img src="https://img.shields.io/badge/My Homepages-FF6B6B?style=for-the-badge&logo=robotframework&logoColor=white" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=你好👋，我是董宇;认知神经科学探索者;心理咨询爱好者)](https://git.io/typing-svg)
+
+  <a href="https://你的网页地址">
+    <img src="https://img.shields.io/badge/我的主页-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="http://robocon.org.cn/">
-    <img src="https://img.shields.io/badge/ROBOCON-FFD700?style=for-the-badge&logo=award&logoColor=black" />
 
 </div>
 
