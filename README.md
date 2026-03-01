@@ -1,9 +1,9 @@
 <div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Dong+Yu;Cognitive+Neuroscience+Explorer;Psychological+Counseling+Enthusiast)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=你好👋，我是董宇;认知神经科学探索者;心理咨询爱好者)](https://git.io/typing-svg)
-
-  <a href="https://你的网页地址">
-    <img src="https://img.shields.io/badge/我的主页-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://your-website-link.com">
+    <img src="https://img.shields.io/badge/My Homepage-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
 </div>
