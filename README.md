@@ -103,9 +103,6 @@ https://github.com/fendouai/PyTorchDocs
 
 <details>
 <summary><b>Full Awards List</b></summary>
-
-<br>
-
 <small>
 
 - September 2022 – National Second Prize, 14th National College Advertising Art Competition (Award Ceremony at the Great Hall of the People, Beijing)
@@ -195,36 +192,3 @@ https://github.com/fendouai/PyTorchDocs
 </tr>
 </table>
 
-## 📸 Featured Projects
-> Check out my [GitHub Repositories](https://github.com/lain-ego0?tab=repositories) for full source code and detailed documentation.
-
-- **[BRS Parallel Quadruped Robot](https://github.com/lain-ego0/ROBOCON-BRS_robot)** - Full-stack open-source project of a parallel-structure quadruped robot, including mechanical design, embedded control system, and motion planning algorithms. Applied in 2025 ROBOCON National Competition. `ROS2` `C++` `Mechanical Design` `Open Source`
-
-- **[HTDW4438 Isaac Gym RL Training Framework](https://github.com/lain-ego0/HTDW4438_Isaacgym)** - Reinforcement learning simulation training environment for quadruped robots, modified based on legged_gym, with completed sim2sim migration and locomotion policy training. `Python` `PyTorch` `Isaac Gym` `Reinforcement Learning` `Legged Locomotion`
----
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-  <a href="mailto:lain-ego@qq.com" target="_blank"><img src="https://img.shields.io/badge/Email-lain--ego@qq.com-red?style=flat&logo=gmail&logoColor=white" height="25px"></a>&nbsp;
-  <a href="https://github.com/lain-ego0" target="_blank"><img src="https://img.shields.io/badge/GitHub-Lain--Ego-black?style=flat&logo=github&logoColor=white" height="25px"></a>&nbsp;
-  <a href="https://lain-ego0.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Personal_Homepage-blue?style=flat&logo=google-chrome&logoColor=white" height="25px"></a>&nbsp;
-  <a href="https://space.bilibili.com/385516781/upload/video" target="_blank"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white" height="25px"></a>&nbsp;
-  <a href="https://www.zhihu.com/people/hua-99-50-21" target="_blank"><img src="https://img.shields.io/badge/Zhihu-0066FF?style=flat&logo=zhihu&logoColor=white" height="25px"></a>&nbsp;
-</p>
-
-<p align="center">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/lain-ego0?style=social&logo=github">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/lain-ego0?style=social&logo=github">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lain-ego0&theme=radical&hide_border=false" alt="Lain-Ego's GitHub Streak" />
-</p>
-
----
-
-<p align="center"> 
-  "Constantly exploring the intersection of mechanics, electronics, and AI to build more capable robots!" 🤖
-</p>
