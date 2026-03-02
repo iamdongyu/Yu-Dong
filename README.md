@@ -19,7 +19,7 @@ I aspire to pursue doctoral studies or become a professional psychological couns
 <details>
 <summary><b>中文版个人简介 (Click to expand)</b></summary>
 
-你好！我是 **董宇**，本科就读于江苏省盐城师范学院，专业为m广播电视学，GPA：3.47/4。  
+你好！我是 **董宇**，本科就读于江苏省盐城师范学院，专业为广播电视学，GPA：3.47/4。  
 研究兴趣：认知神经技术与临床咨询。  
 发展方向：读博深造或成为心理咨询师。  
 已取得：雅思 6.0（口语、写作均 6.0）、普通话证书、教师资格证。
